@@ -6,6 +6,7 @@ We work with high-throughput (mostly) sequencing data to learn about gene expres
 
 Current areas of active development
 
+ - https://github.com/PreibischLab/STIM
  - https://github.com/rajewsky-lab/novosparc
  - https://github.com/rajewsky-lab/spacemake
  - https://github.com/rajewsky-lab/optocoder
